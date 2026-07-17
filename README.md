@@ -1,60 +1,50 @@
+# 👋 Hola, soy Johnny Grefa
+
 <div align="center">
 
-# 👋 ¡Hola! Soy Johnny Grefa
+<img src="banner.png"/>
 
-### 💻 Software Engineering Student | 🚀 Full Stack Developer in Progress
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Bienvenido+a+mi+perfil+de+GitHub;React+Native+%7C+Python+%7C+Java+%7C+Oracle;Siempre+aprendiendo+nuevas+tecnologías" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D8FF&center=true&width=900&lines=Software+Engineering+Student;React+Native+Developer;Oracle+Database;Siempre+aprendiendo+nuevas+tecnologías" />
 
 </div>
 
 ---
 
-# 🚀 Sobre mí
+# 💻 Sobre mí
 
-```java
-public class JohnnyGrefa {
+🎓 Universidad Estatal Amazónica
 
-    String name = "Johnny Grefa";
-    String country = "Ecuador 🇪🇨";
-    String university = "Universidad Estatal Amazónica";
+📍 Ecuador
 
-    String[] languages = {
-        "Python",
-        "Java",
-        "C#",
-        "SQL"
-    };
+💙 Desarrollo de Software
 
-    String[] technologies = {
-        "React Native",
-        "Oracle Database",
-        "Git",
-        "GitHub"
-    };
+📱 React Native
 
-}
-```
+🗄 Oracle Database
+
+🌐 Git & GitHub
+
+☕ Java
+
+🐍 Python
 
 ---
 
-# 💻 Tecnologías
+# ⚡ Tecnologías
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cs,react,nodejs,oracle,mysql,git,github,vscode,androidstudio&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,java,cs,react,nodejs,oracle,mysql,git,github,vscode,androidstudio"/>
 
 </div>
 
 ---
 
-# 📊 Estadísticas
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jguea24&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jguea24&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jguea24&show_icons=true&theme=tokyonight"/>
 
 </div>
 
@@ -64,17 +54,17 @@ public class JohnnyGrefa {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Jguea24&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Jguea24&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 📈 Actividad
+# 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jguea24&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jguea24&theme=tokyo-night"/>
 
 </div>
 
@@ -84,7 +74,7 @@ public class JohnnyGrefa {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jguea24&theme=tokyonight&margin-w=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Jguea24&theme=tokyonight&no-frame=true"/>
 
 </div>
 
@@ -92,56 +82,32 @@ public class JohnnyGrefa {
 
 # 🚀 Proyectos
 
-| Proyecto | Tecnologías |
-|-----------|-------------|
-| 📱 Licorería Guayabal | React Native |
-| 🗄 Sistema Wini S.A.S | Oracle |
-| 🌐 Arquitectura de Software | UML |
-| 📡 Redes y Sensores | IoT |
-| 📲 Desarrollo Móvil | Android |
+### 📱 Licorería Guayabal
+
+Aplicación móvil desarrollada en React Native.
 
 ---
 
-# 📚 Actualmente aprendiendo
+### 🗄 Sistema Wini S.A.S
 
-- ☁ Arquitectura de Software
-- 📱 React Native
-- 🗄 Oracle Database
-- 🐍 Python
-- 🌐 GitHub Actions
+Sistema de gestión utilizando Oracle Database.
 
 ---
 
-# 🌎 Conecta conmigo
+### 📡 Redes y Sensores
 
-<p align="center">
-
-<a href="mailto:jg.grefac@uea.edu.ec">
-<img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Jguea24">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+Arquitecturas LPWAN, SDN y NFV.
 
 ---
 
-# 👀 Visitas
+### ☁ Arquitectura de Software
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Jguea24&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
+MVC, Microservicios y UML.
 
 ---
 
-<div align="center">
+# 📫 Contacto
 
-## ⭐ Gracias por visitar mi perfil ⭐
+📧 jg.grefac@uea.edu.ec
 
-*"La mejor manera de predecir el futuro es crearlo."*
-
-</div>
+⭐ Gracias por visitar mi perfil.
